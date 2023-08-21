@@ -1,11 +1,5 @@
 # CS-255-Systems-Analysis-and-Design
 
-Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-What did you do particularly well?
-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
-How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
-
 For this course, I completed a business requirement and a systems requirement document for a client called DriverPass. DriverPass strives to fill the gap in the driving lesson industry by offering customers a robust learning environment both online and in person. Specifically, the DriverPass client wanted an online system for customers to register for courses, book and manage driving appointments, and keep track of their learning status. The DriverPass team wanted the capability to download reports, manage account access, upload instructor feedback, and more.
 
 In this project, I created the visual elements particularly well, such as the Gantt Chart, activity diagrams, etc. I would choose to revise my Technical Requirements, as I could have added more detail on the requirements that I did choose in order to paint a clearer picture.
